@@ -23691,11 +23691,6 @@
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\EDWIN-OLOGA\\source\\repos\\Aplicacao de vendas\\Views\\Home\\Stock.cshtml",
-      "TargetPath": "Views\\Home\\Stock.cshtml",
-      "FileKind": "mvc"
-    },
-    {
       "FilePath": "c:\\Users\\EDWIN-OLOGA\\source\\repos\\Aplicacao de vendas\\Views\\Shared\\_Layout.cshtml",
       "TargetPath": "Views\\Shared\\_Layout.cshtml",
       "FileKind": "mvc"
@@ -23721,18 +23716,8 @@
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\EDWIN-OLOGA\\source\\repos\\Aplicacao de vendas\\Views\\Home\\Customers.cshtml",
-      "TargetPath": "Views\\Home\\Customers.cshtml",
-      "FileKind": "mvc"
-    },
-    {
       "FilePath": "c:\\Users\\EDWIN-OLOGA\\source\\repos\\Aplicacao de vendas\\Views\\_ViewImports.cshtml",
       "TargetPath": "Views\\_ViewImports.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\EDWIN-OLOGA\\source\\repos\\Aplicacao de vendas\\Views\\Home\\Products.cshtml",
-      "TargetPath": "Views\\Home\\Products.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -23756,8 +23741,23 @@
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\EDWIN-OLOGA\\source\\repos\\Aplicacao de vendas\\Views\\Home\\Sales.cshtml",
-      "TargetPath": "Views\\Home\\Sales.cshtml",
+      "FilePath": "c:\\Users\\EDWIN-OLOGA\\source\\repos\\Aplicacao de vendas\\Views\\Products\\Products.cshtml",
+      "TargetPath": "Views\\Products\\Products.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\EDWIN-OLOGA\\source\\repos\\Aplicacao de vendas\\Views\\Stock\\Stock.cshtml",
+      "TargetPath": "Views\\Stock\\Stock.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\EDWIN-OLOGA\\source\\repos\\Aplicacao de vendas\\Views\\Sales\\Sales.cshtml",
+      "TargetPath": "Views\\Sales\\Sales.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\EDWIN-OLOGA\\source\\repos\\Aplicacao de vendas\\Views\\Customers\\Customers.cshtml",
+      "TargetPath": "Views\\Customers\\Customers.cshtml",
       "FileKind": "mvc"
     }
   ]

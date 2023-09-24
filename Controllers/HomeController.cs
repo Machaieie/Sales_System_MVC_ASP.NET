@@ -18,20 +18,7 @@ namespace Aplicacao_de_vendas.Controllers
             return View();
         }
 
-        public IActionResult Sales()
-        {
-            return View();
-        }
-
-        public IActionResult Products()
-        {
-            return View();
-        }
-
-        public IActionResult Stock()
-        {
-            return View();
-        }
+   
 
         public IActionResult wallet()
         {
@@ -47,10 +34,7 @@ namespace Aplicacao_de_vendas.Controllers
         {
             return View();
         }
-        public IActionResult Customers()
-        {
-            return View();
-        }
+        
 
         public IActionResult Notifications()
         {

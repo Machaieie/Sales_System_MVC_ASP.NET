@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\EDWIN-OLOGA\\source\\repos\\Aplicacao de vendas\\Aplicacao de vendas.csproj": {}
+    "C:\\Users\\EDWIN-OLOGA\\source\\repos\\Aplicacao de vendas\\Aplicacao de vendas.csproj": {}
   },
   "projects": {
-    "c:\\Users\\EDWIN-OLOGA\\source\\repos\\Aplicacao de vendas\\Aplicacao de vendas.csproj": {
+    "C:\\Users\\EDWIN-OLOGA\\source\\repos\\Aplicacao de vendas\\Aplicacao de vendas.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\EDWIN-OLOGA\\source\\repos\\Aplicacao de vendas\\Aplicacao de vendas.csproj",
+        "projectUniqueName": "C:\\Users\\EDWIN-OLOGA\\source\\repos\\Aplicacao de vendas\\Aplicacao de vendas.csproj",
         "projectName": "Aplicacao de vendas",
-        "projectPath": "c:\\Users\\EDWIN-OLOGA\\source\\repos\\Aplicacao de vendas\\Aplicacao de vendas.csproj",
+        "projectPath": "C:\\Users\\EDWIN-OLOGA\\source\\repos\\Aplicacao de vendas\\Aplicacao de vendas.csproj",
         "packagesPath": "C:\\Users\\EDWIN-OLOGA\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\EDWIN-OLOGA\\source\\repos\\Aplicacao de vendas\\obj\\",
+        "outputPath": "C:\\Users\\EDWIN-OLOGA\\source\\repos\\Aplicacao de vendas\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\EDWIN-OLOGA\\AppData\\Roaming\\NuGet\\NuGet.Config",
