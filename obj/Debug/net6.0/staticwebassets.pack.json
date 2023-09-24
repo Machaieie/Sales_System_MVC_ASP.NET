@@ -6825,6 +6825,30 @@
       "PackagePath": "staticwebassets\\fontawesome\\fontawesome-free-5.15.4-web\\webfonts\\fa-solid-900.woff2"
     },
     {
+      "Id": "C:\\Users\\EDWIN-OLOGA\\source\\repos\\Aplicacao de vendas\\wwwroot\\img\\Careira.jpg",
+      "PackagePath": "staticwebassets\\img\\Careira.jpg"
+    },
+    {
+      "Id": "C:\\Users\\EDWIN-OLOGA\\source\\repos\\Aplicacao de vendas\\wwwroot\\img\\Clientes.jpg",
+      "PackagePath": "staticwebassets\\img\\Clientes.jpg"
+    },
+    {
+      "Id": "C:\\Users\\EDWIN-OLOGA\\source\\repos\\Aplicacao de vendas\\wwwroot\\img\\Produtos.jpg",
+      "PackagePath": "staticwebassets\\img\\Produtos.jpg"
+    },
+    {
+      "Id": "C:\\Users\\EDWIN-OLOGA\\source\\repos\\Aplicacao de vendas\\wwwroot\\img\\dinheiro.jpg",
+      "PackagePath": "staticwebassets\\img\\dinheiro.jpg"
+    },
+    {
+      "Id": "C:\\Users\\EDWIN-OLOGA\\source\\repos\\Aplicacao de vendas\\wwwroot\\img\\estock.jpg",
+      "PackagePath": "staticwebassets\\img\\estock.jpg"
+    },
+    {
+      "Id": "C:\\Users\\EDWIN-OLOGA\\source\\repos\\Aplicacao de vendas\\wwwroot\\img\\img-01.png",
+      "PackagePath": "staticwebassets\\img\\img-01.png"
+    },
+    {
       "Id": "C:\\Users\\EDWIN-OLOGA\\source\\repos\\Aplicacao de vendas\\wwwroot\\img\\michael-dziedzic-gEN5Btvf2Eg-unsplash.jpg",
       "PackagePath": "staticwebassets\\img\\michael-dziedzic-gEN5Btvf2Eg-unsplash.jpg"
     },
@@ -6853,6 +6877,14 @@
       "PackagePath": "staticwebassets\\img\\undraw_rocket.svg"
     },
     {
+      "Id": "C:\\Users\\EDWIN-OLOGA\\source\\repos\\Aplicacao de vendas\\wwwroot\\img\\venda.jpg",
+      "PackagePath": "staticwebassets\\img\\venda.jpg"
+    },
+    {
+      "Id": "C:\\Users\\EDWIN-OLOGA\\source\\repos\\Aplicacao de vendas\\wwwroot\\img\\vendas.jpg",
+      "PackagePath": "staticwebassets\\img\\vendas.jpg"
+    },
+    {
       "Id": "C:\\Users\\EDWIN-OLOGA\\source\\repos\\Aplicacao de vendas\\wwwroot\\js\\demo\\chart-area-demo.js",
       "PackagePath": "staticwebassets\\js\\demo\\chart-area-demo.js"
     },
@@ -6869,6 +6901,14 @@
       "PackagePath": "staticwebassets\\js\\demo\\datatables-demo.js"
     },
     {
+      "Id": "C:\\Users\\EDWIN-OLOGA\\source\\repos\\Aplicacao de vendas\\wwwroot\\js\\jquery-3.2.1.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery-3.2.1.min.js"
+    },
+    {
+      "Id": "C:\\Users\\EDWIN-OLOGA\\source\\repos\\Aplicacao de vendas\\wwwroot\\js\\popper.min.js",
+      "PackagePath": "staticwebassets\\js\\popper.min.js"
+    },
+    {
       "Id": "C:\\Users\\EDWIN-OLOGA\\source\\repos\\Aplicacao de vendas\\wwwroot\\js\\sb-admin-2.js",
       "PackagePath": "staticwebassets\\js\\sb-admin-2.js"
     },
@@ -6877,8 +6917,16 @@
       "PackagePath": "staticwebassets\\js\\sb-admin-2.min.js"
     },
     {
+      "Id": "C:\\Users\\EDWIN-OLOGA\\source\\repos\\Aplicacao de vendas\\wwwroot\\js\\select2.min.js",
+      "PackagePath": "staticwebassets\\js\\select2.min.js"
+    },
+    {
       "Id": "C:\\Users\\EDWIN-OLOGA\\source\\repos\\Aplicacao de vendas\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\EDWIN-OLOGA\\source\\repos\\Aplicacao de vendas\\wwwroot\\js\\tilt.jquery.min.js",
+      "PackagePath": "staticwebassets\\js\\tilt.jquery.min.js"
     },
     {
       "Id": "C:\\Users\\EDWIN-OLOGA\\source\\repos\\Aplicacao de vendas\\wwwroot\\lib\\bootstrap\\LICENSE",
@@ -15565,8 +15613,492 @@
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
+      "Id": "C:\\Users\\EDWIN-OLOGA\\source\\repos\\Aplicacao de vendas\\wwwroot\\lib\\login\\fonts\\font-awesome-4.7.0\\HELP-US-OUT.txt",
+      "PackagePath": "staticwebassets\\lib\\login\\fonts\\font-awesome-4.7.0\\HELP-US-OUT.txt"
+    },
+    {
+      "Id": "C:\\Users\\EDWIN-OLOGA\\source\\repos\\Aplicacao de vendas\\wwwroot\\lib\\login\\fonts\\font-awesome-4.7.0\\css\\font-awesome.css",
+      "PackagePath": "staticwebassets\\lib\\login\\fonts\\font-awesome-4.7.0\\css\\font-awesome.css"
+    },
+    {
+      "Id": "C:\\Users\\EDWIN-OLOGA\\source\\repos\\Aplicacao de vendas\\wwwroot\\lib\\login\\fonts\\font-awesome-4.7.0\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\lib\\login\\fonts\\font-awesome-4.7.0\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\EDWIN-OLOGA\\source\\repos\\Aplicacao de vendas\\wwwroot\\lib\\login\\fonts\\font-awesome-4.7.0\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\lib\\login\\fonts\\font-awesome-4.7.0\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "C:\\Users\\EDWIN-OLOGA\\source\\repos\\Aplicacao de vendas\\wwwroot\\lib\\login\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\lib\\login\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\EDWIN-OLOGA\\source\\repos\\Aplicacao de vendas\\wwwroot\\lib\\login\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\lib\\login\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "C:\\Users\\EDWIN-OLOGA\\source\\repos\\Aplicacao de vendas\\wwwroot\\lib\\login\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\lib\\login\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\EDWIN-OLOGA\\source\\repos\\Aplicacao de vendas\\wwwroot\\lib\\login\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\lib\\login\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\EDWIN-OLOGA\\source\\repos\\Aplicacao de vendas\\wwwroot\\lib\\login\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\lib\\login\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\EDWIN-OLOGA\\source\\repos\\Aplicacao de vendas\\wwwroot\\lib\\login\\fonts\\font-awesome-4.7.0\\less\\animated.less",
+      "PackagePath": "staticwebassets\\lib\\login\\fonts\\font-awesome-4.7.0\\less\\animated.less"
+    },
+    {
+      "Id": "C:\\Users\\EDWIN-OLOGA\\source\\repos\\Aplicacao de vendas\\wwwroot\\lib\\login\\fonts\\font-awesome-4.7.0\\less\\bordered-pulled.less",
+      "PackagePath": "staticwebassets\\lib\\login\\fonts\\font-awesome-4.7.0\\less\\bordered-pulled.less"
+    },
+    {
+      "Id": "C:\\Users\\EDWIN-OLOGA\\source\\repos\\Aplicacao de vendas\\wwwroot\\lib\\login\\fonts\\font-awesome-4.7.0\\less\\core.less",
+      "PackagePath": "staticwebassets\\lib\\login\\fonts\\font-awesome-4.7.0\\less\\core.less"
+    },
+    {
+      "Id": "C:\\Users\\EDWIN-OLOGA\\source\\repos\\Aplicacao de vendas\\wwwroot\\lib\\login\\fonts\\font-awesome-4.7.0\\less\\fixed-width.less",
+      "PackagePath": "staticwebassets\\lib\\login\\fonts\\font-awesome-4.7.0\\less\\fixed-width.less"
+    },
+    {
+      "Id": "C:\\Users\\EDWIN-OLOGA\\source\\repos\\Aplicacao de vendas\\wwwroot\\lib\\login\\fonts\\font-awesome-4.7.0\\less\\font-awesome.less",
+      "PackagePath": "staticwebassets\\lib\\login\\fonts\\font-awesome-4.7.0\\less\\font-awesome.less"
+    },
+    {
+      "Id": "C:\\Users\\EDWIN-OLOGA\\source\\repos\\Aplicacao de vendas\\wwwroot\\lib\\login\\fonts\\font-awesome-4.7.0\\less\\icons.less",
+      "PackagePath": "staticwebassets\\lib\\login\\fonts\\font-awesome-4.7.0\\less\\icons.less"
+    },
+    {
+      "Id": "C:\\Users\\EDWIN-OLOGA\\source\\repos\\Aplicacao de vendas\\wwwroot\\lib\\login\\fonts\\font-awesome-4.7.0\\less\\larger.less",
+      "PackagePath": "staticwebassets\\lib\\login\\fonts\\font-awesome-4.7.0\\less\\larger.less"
+    },
+    {
+      "Id": "C:\\Users\\EDWIN-OLOGA\\source\\repos\\Aplicacao de vendas\\wwwroot\\lib\\login\\fonts\\font-awesome-4.7.0\\less\\list.less",
+      "PackagePath": "staticwebassets\\lib\\login\\fonts\\font-awesome-4.7.0\\less\\list.less"
+    },
+    {
+      "Id": "C:\\Users\\EDWIN-OLOGA\\source\\repos\\Aplicacao de vendas\\wwwroot\\lib\\login\\fonts\\font-awesome-4.7.0\\less\\mixins.less",
+      "PackagePath": "staticwebassets\\lib\\login\\fonts\\font-awesome-4.7.0\\less\\mixins.less"
+    },
+    {
+      "Id": "C:\\Users\\EDWIN-OLOGA\\source\\repos\\Aplicacao de vendas\\wwwroot\\lib\\login\\fonts\\font-awesome-4.7.0\\less\\path.less",
+      "PackagePath": "staticwebassets\\lib\\login\\fonts\\font-awesome-4.7.0\\less\\path.less"
+    },
+    {
+      "Id": "C:\\Users\\EDWIN-OLOGA\\source\\repos\\Aplicacao de vendas\\wwwroot\\lib\\login\\fonts\\font-awesome-4.7.0\\less\\rotated-flipped.less",
+      "PackagePath": "staticwebassets\\lib\\login\\fonts\\font-awesome-4.7.0\\less\\rotated-flipped.less"
+    },
+    {
+      "Id": "C:\\Users\\EDWIN-OLOGA\\source\\repos\\Aplicacao de vendas\\wwwroot\\lib\\login\\fonts\\font-awesome-4.7.0\\less\\screen-reader.less",
+      "PackagePath": "staticwebassets\\lib\\login\\fonts\\font-awesome-4.7.0\\less\\screen-reader.less"
+    },
+    {
+      "Id": "C:\\Users\\EDWIN-OLOGA\\source\\repos\\Aplicacao de vendas\\wwwroot\\lib\\login\\fonts\\font-awesome-4.7.0\\less\\stacked.less",
+      "PackagePath": "staticwebassets\\lib\\login\\fonts\\font-awesome-4.7.0\\less\\stacked.less"
+    },
+    {
+      "Id": "C:\\Users\\EDWIN-OLOGA\\source\\repos\\Aplicacao de vendas\\wwwroot\\lib\\login\\fonts\\font-awesome-4.7.0\\less\\variables.less",
+      "PackagePath": "staticwebassets\\lib\\login\\fonts\\font-awesome-4.7.0\\less\\variables.less"
+    },
+    {
+      "Id": "C:\\Users\\EDWIN-OLOGA\\source\\repos\\Aplicacao de vendas\\wwwroot\\lib\\login\\fonts\\font-awesome-4.7.0\\scss\\_animated.scss",
+      "PackagePath": "staticwebassets\\lib\\login\\fonts\\font-awesome-4.7.0\\scss\\_animated.scss"
+    },
+    {
+      "Id": "C:\\Users\\EDWIN-OLOGA\\source\\repos\\Aplicacao de vendas\\wwwroot\\lib\\login\\fonts\\font-awesome-4.7.0\\scss\\_bordered-pulled.scss",
+      "PackagePath": "staticwebassets\\lib\\login\\fonts\\font-awesome-4.7.0\\scss\\_bordered-pulled.scss"
+    },
+    {
+      "Id": "C:\\Users\\EDWIN-OLOGA\\source\\repos\\Aplicacao de vendas\\wwwroot\\lib\\login\\fonts\\font-awesome-4.7.0\\scss\\_core.scss",
+      "PackagePath": "staticwebassets\\lib\\login\\fonts\\font-awesome-4.7.0\\scss\\_core.scss"
+    },
+    {
+      "Id": "C:\\Users\\EDWIN-OLOGA\\source\\repos\\Aplicacao de vendas\\wwwroot\\lib\\login\\fonts\\font-awesome-4.7.0\\scss\\_fixed-width.scss",
+      "PackagePath": "staticwebassets\\lib\\login\\fonts\\font-awesome-4.7.0\\scss\\_fixed-width.scss"
+    },
+    {
+      "Id": "C:\\Users\\EDWIN-OLOGA\\source\\repos\\Aplicacao de vendas\\wwwroot\\lib\\login\\fonts\\font-awesome-4.7.0\\scss\\_icons.scss",
+      "PackagePath": "staticwebassets\\lib\\login\\fonts\\font-awesome-4.7.0\\scss\\_icons.scss"
+    },
+    {
+      "Id": "C:\\Users\\EDWIN-OLOGA\\source\\repos\\Aplicacao de vendas\\wwwroot\\lib\\login\\fonts\\font-awesome-4.7.0\\scss\\_larger.scss",
+      "PackagePath": "staticwebassets\\lib\\login\\fonts\\font-awesome-4.7.0\\scss\\_larger.scss"
+    },
+    {
+      "Id": "C:\\Users\\EDWIN-OLOGA\\source\\repos\\Aplicacao de vendas\\wwwroot\\lib\\login\\fonts\\font-awesome-4.7.0\\scss\\_list.scss",
+      "PackagePath": "staticwebassets\\lib\\login\\fonts\\font-awesome-4.7.0\\scss\\_list.scss"
+    },
+    {
+      "Id": "C:\\Users\\EDWIN-OLOGA\\source\\repos\\Aplicacao de vendas\\wwwroot\\lib\\login\\fonts\\font-awesome-4.7.0\\scss\\_mixins.scss",
+      "PackagePath": "staticwebassets\\lib\\login\\fonts\\font-awesome-4.7.0\\scss\\_mixins.scss"
+    },
+    {
+      "Id": "C:\\Users\\EDWIN-OLOGA\\source\\repos\\Aplicacao de vendas\\wwwroot\\lib\\login\\fonts\\font-awesome-4.7.0\\scss\\_path.scss",
+      "PackagePath": "staticwebassets\\lib\\login\\fonts\\font-awesome-4.7.0\\scss\\_path.scss"
+    },
+    {
+      "Id": "C:\\Users\\EDWIN-OLOGA\\source\\repos\\Aplicacao de vendas\\wwwroot\\lib\\login\\fonts\\font-awesome-4.7.0\\scss\\_rotated-flipped.scss",
+      "PackagePath": "staticwebassets\\lib\\login\\fonts\\font-awesome-4.7.0\\scss\\_rotated-flipped.scss"
+    },
+    {
+      "Id": "C:\\Users\\EDWIN-OLOGA\\source\\repos\\Aplicacao de vendas\\wwwroot\\lib\\login\\fonts\\font-awesome-4.7.0\\scss\\_screen-reader.scss",
+      "PackagePath": "staticwebassets\\lib\\login\\fonts\\font-awesome-4.7.0\\scss\\_screen-reader.scss"
+    },
+    {
+      "Id": "C:\\Users\\EDWIN-OLOGA\\source\\repos\\Aplicacao de vendas\\wwwroot\\lib\\login\\fonts\\font-awesome-4.7.0\\scss\\_stacked.scss",
+      "PackagePath": "staticwebassets\\lib\\login\\fonts\\font-awesome-4.7.0\\scss\\_stacked.scss"
+    },
+    {
+      "Id": "C:\\Users\\EDWIN-OLOGA\\source\\repos\\Aplicacao de vendas\\wwwroot\\lib\\login\\fonts\\font-awesome-4.7.0\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\lib\\login\\fonts\\font-awesome-4.7.0\\scss\\_variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\EDWIN-OLOGA\\source\\repos\\Aplicacao de vendas\\wwwroot\\lib\\login\\fonts\\font-awesome-4.7.0\\scss\\font-awesome.scss",
+      "PackagePath": "staticwebassets\\lib\\login\\fonts\\font-awesome-4.7.0\\scss\\font-awesome.scss"
+    },
+    {
+      "Id": "C:\\Users\\EDWIN-OLOGA\\source\\repos\\Aplicacao de vendas\\wwwroot\\lib\\login\\fonts\\montserrat\\Montserrat-Black.ttf",
+      "PackagePath": "staticwebassets\\lib\\login\\fonts\\montserrat\\Montserrat-Black.ttf"
+    },
+    {
+      "Id": "C:\\Users\\EDWIN-OLOGA\\source\\repos\\Aplicacao de vendas\\wwwroot\\lib\\login\\fonts\\montserrat\\Montserrat-BlackItalic.ttf",
+      "PackagePath": "staticwebassets\\lib\\login\\fonts\\montserrat\\Montserrat-BlackItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\EDWIN-OLOGA\\source\\repos\\Aplicacao de vendas\\wwwroot\\lib\\login\\fonts\\montserrat\\Montserrat-Bold.ttf",
+      "PackagePath": "staticwebassets\\lib\\login\\fonts\\montserrat\\Montserrat-Bold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\EDWIN-OLOGA\\source\\repos\\Aplicacao de vendas\\wwwroot\\lib\\login\\fonts\\montserrat\\Montserrat-BoldItalic.ttf",
+      "PackagePath": "staticwebassets\\lib\\login\\fonts\\montserrat\\Montserrat-BoldItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\EDWIN-OLOGA\\source\\repos\\Aplicacao de vendas\\wwwroot\\lib\\login\\fonts\\montserrat\\Montserrat-ExtraBold.ttf",
+      "PackagePath": "staticwebassets\\lib\\login\\fonts\\montserrat\\Montserrat-ExtraBold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\EDWIN-OLOGA\\source\\repos\\Aplicacao de vendas\\wwwroot\\lib\\login\\fonts\\montserrat\\Montserrat-ExtraBoldItalic.ttf",
+      "PackagePath": "staticwebassets\\lib\\login\\fonts\\montserrat\\Montserrat-ExtraBoldItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\EDWIN-OLOGA\\source\\repos\\Aplicacao de vendas\\wwwroot\\lib\\login\\fonts\\montserrat\\Montserrat-ExtraLight.ttf",
+      "PackagePath": "staticwebassets\\lib\\login\\fonts\\montserrat\\Montserrat-ExtraLight.ttf"
+    },
+    {
+      "Id": "C:\\Users\\EDWIN-OLOGA\\source\\repos\\Aplicacao de vendas\\wwwroot\\lib\\login\\fonts\\montserrat\\Montserrat-ExtraLightItalic.ttf",
+      "PackagePath": "staticwebassets\\lib\\login\\fonts\\montserrat\\Montserrat-ExtraLightItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\EDWIN-OLOGA\\source\\repos\\Aplicacao de vendas\\wwwroot\\lib\\login\\fonts\\montserrat\\Montserrat-Italic.ttf",
+      "PackagePath": "staticwebassets\\lib\\login\\fonts\\montserrat\\Montserrat-Italic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\EDWIN-OLOGA\\source\\repos\\Aplicacao de vendas\\wwwroot\\lib\\login\\fonts\\montserrat\\Montserrat-Light.ttf",
+      "PackagePath": "staticwebassets\\lib\\login\\fonts\\montserrat\\Montserrat-Light.ttf"
+    },
+    {
+      "Id": "C:\\Users\\EDWIN-OLOGA\\source\\repos\\Aplicacao de vendas\\wwwroot\\lib\\login\\fonts\\montserrat\\Montserrat-LightItalic.ttf",
+      "PackagePath": "staticwebassets\\lib\\login\\fonts\\montserrat\\Montserrat-LightItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\EDWIN-OLOGA\\source\\repos\\Aplicacao de vendas\\wwwroot\\lib\\login\\fonts\\montserrat\\Montserrat-Medium.ttf",
+      "PackagePath": "staticwebassets\\lib\\login\\fonts\\montserrat\\Montserrat-Medium.ttf"
+    },
+    {
+      "Id": "C:\\Users\\EDWIN-OLOGA\\source\\repos\\Aplicacao de vendas\\wwwroot\\lib\\login\\fonts\\montserrat\\Montserrat-MediumItalic.ttf",
+      "PackagePath": "staticwebassets\\lib\\login\\fonts\\montserrat\\Montserrat-MediumItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\EDWIN-OLOGA\\source\\repos\\Aplicacao de vendas\\wwwroot\\lib\\login\\fonts\\montserrat\\Montserrat-Regular.ttf",
+      "PackagePath": "staticwebassets\\lib\\login\\fonts\\montserrat\\Montserrat-Regular.ttf"
+    },
+    {
+      "Id": "C:\\Users\\EDWIN-OLOGA\\source\\repos\\Aplicacao de vendas\\wwwroot\\lib\\login\\fonts\\montserrat\\Montserrat-SemiBold.ttf",
+      "PackagePath": "staticwebassets\\lib\\login\\fonts\\montserrat\\Montserrat-SemiBold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\EDWIN-OLOGA\\source\\repos\\Aplicacao de vendas\\wwwroot\\lib\\login\\fonts\\montserrat\\Montserrat-SemiBoldItalic.ttf",
+      "PackagePath": "staticwebassets\\lib\\login\\fonts\\montserrat\\Montserrat-SemiBoldItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\EDWIN-OLOGA\\source\\repos\\Aplicacao de vendas\\wwwroot\\lib\\login\\fonts\\montserrat\\Montserrat-Thin.ttf",
+      "PackagePath": "staticwebassets\\lib\\login\\fonts\\montserrat\\Montserrat-Thin.ttf"
+    },
+    {
+      "Id": "C:\\Users\\EDWIN-OLOGA\\source\\repos\\Aplicacao de vendas\\wwwroot\\lib\\login\\fonts\\montserrat\\Montserrat-ThinItalic.ttf",
+      "PackagePath": "staticwebassets\\lib\\login\\fonts\\montserrat\\Montserrat-ThinItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\EDWIN-OLOGA\\source\\repos\\Aplicacao de vendas\\wwwroot\\lib\\login\\fonts\\montserrat\\OFL.txt",
+      "PackagePath": "staticwebassets\\lib\\login\\fonts\\montserrat\\OFL.txt"
+    },
+    {
+      "Id": "C:\\Users\\EDWIN-OLOGA\\source\\repos\\Aplicacao de vendas\\wwwroot\\lib\\login\\fonts\\poppins\\Poppins-Black.ttf",
+      "PackagePath": "staticwebassets\\lib\\login\\fonts\\poppins\\Poppins-Black.ttf"
+    },
+    {
+      "Id": "C:\\Users\\EDWIN-OLOGA\\source\\repos\\Aplicacao de vendas\\wwwroot\\lib\\login\\fonts\\poppins\\Poppins-BlackItalic.ttf",
+      "PackagePath": "staticwebassets\\lib\\login\\fonts\\poppins\\Poppins-BlackItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\EDWIN-OLOGA\\source\\repos\\Aplicacao de vendas\\wwwroot\\lib\\login\\fonts\\poppins\\Poppins-Bold.ttf",
+      "PackagePath": "staticwebassets\\lib\\login\\fonts\\poppins\\Poppins-Bold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\EDWIN-OLOGA\\source\\repos\\Aplicacao de vendas\\wwwroot\\lib\\login\\fonts\\poppins\\Poppins-BoldItalic.ttf",
+      "PackagePath": "staticwebassets\\lib\\login\\fonts\\poppins\\Poppins-BoldItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\EDWIN-OLOGA\\source\\repos\\Aplicacao de vendas\\wwwroot\\lib\\login\\fonts\\poppins\\Poppins-ExtraBold.ttf",
+      "PackagePath": "staticwebassets\\lib\\login\\fonts\\poppins\\Poppins-ExtraBold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\EDWIN-OLOGA\\source\\repos\\Aplicacao de vendas\\wwwroot\\lib\\login\\fonts\\poppins\\Poppins-ExtraBoldItalic.ttf",
+      "PackagePath": "staticwebassets\\lib\\login\\fonts\\poppins\\Poppins-ExtraBoldItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\EDWIN-OLOGA\\source\\repos\\Aplicacao de vendas\\wwwroot\\lib\\login\\fonts\\poppins\\Poppins-ExtraLight.ttf",
+      "PackagePath": "staticwebassets\\lib\\login\\fonts\\poppins\\Poppins-ExtraLight.ttf"
+    },
+    {
+      "Id": "C:\\Users\\EDWIN-OLOGA\\source\\repos\\Aplicacao de vendas\\wwwroot\\lib\\login\\fonts\\poppins\\Poppins-ExtraLightItalic.ttf",
+      "PackagePath": "staticwebassets\\lib\\login\\fonts\\poppins\\Poppins-ExtraLightItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\EDWIN-OLOGA\\source\\repos\\Aplicacao de vendas\\wwwroot\\lib\\login\\fonts\\poppins\\Poppins-Italic.ttf",
+      "PackagePath": "staticwebassets\\lib\\login\\fonts\\poppins\\Poppins-Italic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\EDWIN-OLOGA\\source\\repos\\Aplicacao de vendas\\wwwroot\\lib\\login\\fonts\\poppins\\Poppins-Light.ttf",
+      "PackagePath": "staticwebassets\\lib\\login\\fonts\\poppins\\Poppins-Light.ttf"
+    },
+    {
+      "Id": "C:\\Users\\EDWIN-OLOGA\\source\\repos\\Aplicacao de vendas\\wwwroot\\lib\\login\\fonts\\poppins\\Poppins-LightItalic.ttf",
+      "PackagePath": "staticwebassets\\lib\\login\\fonts\\poppins\\Poppins-LightItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\EDWIN-OLOGA\\source\\repos\\Aplicacao de vendas\\wwwroot\\lib\\login\\fonts\\poppins\\Poppins-Medium.ttf",
+      "PackagePath": "staticwebassets\\lib\\login\\fonts\\poppins\\Poppins-Medium.ttf"
+    },
+    {
+      "Id": "C:\\Users\\EDWIN-OLOGA\\source\\repos\\Aplicacao de vendas\\wwwroot\\lib\\login\\fonts\\poppins\\Poppins-MediumItalic.ttf",
+      "PackagePath": "staticwebassets\\lib\\login\\fonts\\poppins\\Poppins-MediumItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\EDWIN-OLOGA\\source\\repos\\Aplicacao de vendas\\wwwroot\\lib\\login\\fonts\\poppins\\Poppins-Regular.ttf",
+      "PackagePath": "staticwebassets\\lib\\login\\fonts\\poppins\\Poppins-Regular.ttf"
+    },
+    {
+      "Id": "C:\\Users\\EDWIN-OLOGA\\source\\repos\\Aplicacao de vendas\\wwwroot\\lib\\login\\fonts\\poppins\\Poppins-SemiBold.ttf",
+      "PackagePath": "staticwebassets\\lib\\login\\fonts\\poppins\\Poppins-SemiBold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\EDWIN-OLOGA\\source\\repos\\Aplicacao de vendas\\wwwroot\\lib\\login\\fonts\\poppins\\Poppins-SemiBoldItalic.ttf",
+      "PackagePath": "staticwebassets\\lib\\login\\fonts\\poppins\\Poppins-SemiBoldItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\EDWIN-OLOGA\\source\\repos\\Aplicacao de vendas\\wwwroot\\lib\\login\\fonts\\poppins\\Poppins-Thin.ttf",
+      "PackagePath": "staticwebassets\\lib\\login\\fonts\\poppins\\Poppins-Thin.ttf"
+    },
+    {
+      "Id": "C:\\Users\\EDWIN-OLOGA\\source\\repos\\Aplicacao de vendas\\wwwroot\\lib\\login\\fonts\\poppins\\Poppins-ThinItalic.ttf",
+      "PackagePath": "staticwebassets\\lib\\login\\fonts\\poppins\\Poppins-ThinItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\EDWIN-OLOGA\\source\\repos\\Aplicacao de vendas\\wwwroot\\lib\\login\\images\\icons\\favicon.ico",
+      "PackagePath": "staticwebassets\\lib\\login\\images\\icons\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\EDWIN-OLOGA\\source\\repos\\Aplicacao de vendas\\wwwroot\\lib\\login\\js\\main.js",
+      "PackagePath": "staticwebassets\\lib\\login\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\EDWIN-OLOGA\\source\\repos\\Aplicacao de vendas\\wwwroot\\lib\\login\\vendor\\bootstrap\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\login\\vendor\\bootstrap\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\EDWIN-OLOGA\\source\\repos\\Aplicacao de vendas\\wwwroot\\lib\\login\\vendor\\bootstrap\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\login\\vendor\\bootstrap\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\EDWIN-OLOGA\\source\\repos\\Aplicacao de vendas\\wwwroot\\lib\\login\\vendor\\bootstrap\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\login\\vendor\\bootstrap\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\EDWIN-OLOGA\\source\\repos\\Aplicacao de vendas\\wwwroot\\lib\\login\\vendor\\bootstrap\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\login\\vendor\\bootstrap\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\EDWIN-OLOGA\\source\\repos\\Aplicacao de vendas\\wwwroot\\lib\\login\\vendor\\bootstrap\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\login\\vendor\\bootstrap\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\EDWIN-OLOGA\\source\\repos\\Aplicacao de vendas\\wwwroot\\lib\\login\\vendor\\bootstrap\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\login\\vendor\\bootstrap\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\EDWIN-OLOGA\\source\\repos\\Aplicacao de vendas\\wwwroot\\lib\\login\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\login\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\EDWIN-OLOGA\\source\\repos\\Aplicacao de vendas\\wwwroot\\lib\\login\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\login\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\EDWIN-OLOGA\\source\\repos\\Aplicacao de vendas\\wwwroot\\lib\\login\\vendor\\bootstrap\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\login\\vendor\\bootstrap\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\EDWIN-OLOGA\\source\\repos\\Aplicacao de vendas\\wwwroot\\lib\\login\\vendor\\bootstrap\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\login\\vendor\\bootstrap\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\EDWIN-OLOGA\\source\\repos\\Aplicacao de vendas\\wwwroot\\lib\\login\\vendor\\bootstrap\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\login\\vendor\\bootstrap\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\EDWIN-OLOGA\\source\\repos\\Aplicacao de vendas\\wwwroot\\lib\\login\\vendor\\bootstrap\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\login\\vendor\\bootstrap\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\EDWIN-OLOGA\\source\\repos\\Aplicacao de vendas\\wwwroot\\lib\\login\\vendor\\bootstrap\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\login\\vendor\\bootstrap\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\EDWIN-OLOGA\\source\\repos\\Aplicacao de vendas\\wwwroot\\lib\\login\\vendor\\bootstrap\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\login\\vendor\\bootstrap\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\EDWIN-OLOGA\\source\\repos\\Aplicacao de vendas\\wwwroot\\lib\\login\\vendor\\bootstrap\\js\\popper.js",
+      "PackagePath": "staticwebassets\\lib\\login\\vendor\\bootstrap\\js\\popper.js"
+    },
+    {
+      "Id": "C:\\Users\\EDWIN-OLOGA\\source\\repos\\Aplicacao de vendas\\wwwroot\\lib\\login\\vendor\\bootstrap\\js\\tooltip.js",
+      "PackagePath": "staticwebassets\\lib\\login\\vendor\\bootstrap\\js\\tooltip.js"
+    },
+    {
+      "Id": "C:\\Users\\EDWIN-OLOGA\\source\\repos\\Aplicacao de vendas\\wwwroot\\lib\\login\\vendor\\css-hamburgers\\hamburgers.css",
+      "PackagePath": "staticwebassets\\lib\\login\\vendor\\css-hamburgers\\hamburgers.css"
+    },
+    {
+      "Id": "C:\\Users\\EDWIN-OLOGA\\source\\repos\\Aplicacao de vendas\\wwwroot\\lib\\login\\vendor\\select2\\select2.css",
+      "PackagePath": "staticwebassets\\lib\\login\\vendor\\select2\\select2.css"
+    },
+    {
+      "Id": "C:\\Users\\EDWIN-OLOGA\\source\\repos\\Aplicacao de vendas\\wwwroot\\lib\\login\\vendor\\select2\\select2.js",
+      "PackagePath": "staticwebassets\\lib\\login\\vendor\\select2\\select2.js"
+    },
+    {
+      "Id": "C:\\Users\\EDWIN-OLOGA\\source\\repos\\Aplicacao de vendas\\wwwroot\\lib\\login\\vendor\\select2\\select2.min.css",
+      "PackagePath": "staticwebassets\\lib\\login\\vendor\\select2\\select2.min.css"
+    },
+    {
       "Id": "C:\\Users\\EDWIN-OLOGA\\source\\repos\\Aplicacao de vendas\\wwwroot\\lib\\mystyle.css",
       "PackagePath": "staticwebassets\\lib\\mystyle.css"
+    },
+    {
+      "Id": "C:\\Users\\EDWIN-OLOGA\\source\\repos\\Aplicacao de vendas\\wwwroot\\lib\\vendor\\animate\\animate.css",
+      "PackagePath": "staticwebassets\\lib\\vendor\\animate\\animate.css"
+    },
+    {
+      "Id": "C:\\Users\\EDWIN-OLOGA\\source\\repos\\Aplicacao de vendas\\wwwroot\\lib\\vendor\\bootstrap\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\vendor\\bootstrap\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\EDWIN-OLOGA\\source\\repos\\Aplicacao de vendas\\wwwroot\\lib\\vendor\\bootstrap\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\vendor\\bootstrap\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\EDWIN-OLOGA\\source\\repos\\Aplicacao de vendas\\wwwroot\\lib\\vendor\\bootstrap\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\vendor\\bootstrap\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\EDWIN-OLOGA\\source\\repos\\Aplicacao de vendas\\wwwroot\\lib\\vendor\\bootstrap\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\vendor\\bootstrap\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\EDWIN-OLOGA\\source\\repos\\Aplicacao de vendas\\wwwroot\\lib\\vendor\\bootstrap\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\vendor\\bootstrap\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\EDWIN-OLOGA\\source\\repos\\Aplicacao de vendas\\wwwroot\\lib\\vendor\\bootstrap\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\vendor\\bootstrap\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\EDWIN-OLOGA\\source\\repos\\Aplicacao de vendas\\wwwroot\\lib\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\EDWIN-OLOGA\\source\\repos\\Aplicacao de vendas\\wwwroot\\lib\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\EDWIN-OLOGA\\source\\repos\\Aplicacao de vendas\\wwwroot\\lib\\vendor\\bootstrap\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\vendor\\bootstrap\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\EDWIN-OLOGA\\source\\repos\\Aplicacao de vendas\\wwwroot\\lib\\vendor\\bootstrap\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\vendor\\bootstrap\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\EDWIN-OLOGA\\source\\repos\\Aplicacao de vendas\\wwwroot\\lib\\vendor\\bootstrap\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\vendor\\bootstrap\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\EDWIN-OLOGA\\source\\repos\\Aplicacao de vendas\\wwwroot\\lib\\vendor\\bootstrap\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\vendor\\bootstrap\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\EDWIN-OLOGA\\source\\repos\\Aplicacao de vendas\\wwwroot\\lib\\vendor\\bootstrap\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\vendor\\bootstrap\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\EDWIN-OLOGA\\source\\repos\\Aplicacao de vendas\\wwwroot\\lib\\vendor\\bootstrap\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\vendor\\bootstrap\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\EDWIN-OLOGA\\source\\repos\\Aplicacao de vendas\\wwwroot\\lib\\vendor\\bootstrap\\js\\popper.js",
+      "PackagePath": "staticwebassets\\lib\\vendor\\bootstrap\\js\\popper.js"
+    },
+    {
+      "Id": "C:\\Users\\EDWIN-OLOGA\\source\\repos\\Aplicacao de vendas\\wwwroot\\lib\\vendor\\bootstrap\\js\\popper.min.js",
+      "PackagePath": "staticwebassets\\lib\\vendor\\bootstrap\\js\\popper.min.js"
+    },
+    {
+      "Id": "C:\\Users\\EDWIN-OLOGA\\source\\repos\\Aplicacao de vendas\\wwwroot\\lib\\vendor\\bootstrap\\js\\tooltip.js",
+      "PackagePath": "staticwebassets\\lib\\vendor\\bootstrap\\js\\tooltip.js"
+    },
+    {
+      "Id": "C:\\Users\\EDWIN-OLOGA\\source\\repos\\Aplicacao de vendas\\wwwroot\\lib\\vendor\\css-hamburgers\\hamburgers.css",
+      "PackagePath": "staticwebassets\\lib\\vendor\\css-hamburgers\\hamburgers.css"
+    },
+    {
+      "Id": "C:\\Users\\EDWIN-OLOGA\\source\\repos\\Aplicacao de vendas\\wwwroot\\lib\\vendor\\css-hamburgers\\hamburgers.min.css",
+      "PackagePath": "staticwebassets\\lib\\vendor\\css-hamburgers\\hamburgers.min.css"
+    },
+    {
+      "Id": "C:\\Users\\EDWIN-OLOGA\\source\\repos\\Aplicacao de vendas\\wwwroot\\lib\\vendor\\jquery\\jquery-3.2.1.min.js",
+      "PackagePath": "staticwebassets\\lib\\vendor\\jquery\\jquery-3.2.1.min.js"
+    },
+    {
+      "Id": "C:\\Users\\EDWIN-OLOGA\\source\\repos\\Aplicacao de vendas\\wwwroot\\lib\\vendor\\select2\\select2.css",
+      "PackagePath": "staticwebassets\\lib\\vendor\\select2\\select2.css"
+    },
+    {
+      "Id": "C:\\Users\\EDWIN-OLOGA\\source\\repos\\Aplicacao de vendas\\wwwroot\\lib\\vendor\\select2\\select2.js",
+      "PackagePath": "staticwebassets\\lib\\vendor\\select2\\select2.js"
+    },
+    {
+      "Id": "C:\\Users\\EDWIN-OLOGA\\source\\repos\\Aplicacao de vendas\\wwwroot\\lib\\vendor\\select2\\select2.min.js",
+      "PackagePath": "staticwebassets\\lib\\vendor\\select2\\select2.min.js"
+    },
+    {
+      "Id": "C:\\Users\\EDWIN-OLOGA\\source\\repos\\Aplicacao de vendas\\wwwroot\\lib\\vendor\\tilt\\tilt.jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\vendor\\tilt\\tilt.jquery.min.js"
     },
     {
       "Id": "C:\\Users\\EDWIN-OLOGA\\source\\repos\\Aplicacao de vendas\\wwwroot\\scss\\_buttons.scss",
@@ -15617,6 +16149,18 @@
       "PackagePath": "staticwebassets\\scss\\_variables.scss"
     },
     {
+      "Id": "C:\\Users\\EDWIN-OLOGA\\source\\repos\\Aplicacao de vendas\\wwwroot\\scss\\animate.css",
+      "PackagePath": "staticwebassets\\scss\\animate.css"
+    },
+    {
+      "Id": "C:\\Users\\EDWIN-OLOGA\\source\\repos\\Aplicacao de vendas\\wwwroot\\scss\\hamburgers.min.css",
+      "PackagePath": "staticwebassets\\scss\\hamburgers.min.css"
+    },
+    {
+      "Id": "C:\\Users\\EDWIN-OLOGA\\source\\repos\\Aplicacao de vendas\\wwwroot\\scss\\main.css",
+      "PackagePath": "staticwebassets\\scss\\main.css"
+    },
+    {
       "Id": "C:\\Users\\EDWIN-OLOGA\\source\\repos\\Aplicacao de vendas\\wwwroot\\scss\\navs\\_global.scss",
       "PackagePath": "staticwebassets\\scss\\navs\\_global.scss"
     },
@@ -15631,6 +16175,14 @@
     {
       "Id": "C:\\Users\\EDWIN-OLOGA\\source\\repos\\Aplicacao de vendas\\wwwroot\\scss\\sb-admin-2.scss",
       "PackagePath": "staticwebassets\\scss\\sb-admin-2.scss"
+    },
+    {
+      "Id": "C:\\Users\\EDWIN-OLOGA\\source\\repos\\Aplicacao de vendas\\wwwroot\\scss\\select2.min.css",
+      "PackagePath": "staticwebassets\\scss\\select2.min.css"
+    },
+    {
+      "Id": "C:\\Users\\EDWIN-OLOGA\\source\\repos\\Aplicacao de vendas\\wwwroot\\scss\\util.css",
+      "PackagePath": "staticwebassets\\scss\\util.css"
     },
     {
       "Id": "C:\\Users\\EDWIN-OLOGA\\source\\repos\\Aplicacao de vendas\\wwwroot\\scss\\utilities\\_animation.scss",

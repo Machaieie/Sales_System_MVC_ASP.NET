@@ -1,5 +1,4 @@
-﻿
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 @{
     ViewData["Title"] = "Home Page";
 }
@@ -30,7 +29,6 @@
             margin: 0;
             padding: 0;
             overflow: hidden;
-           
         }
     </style>
 </head>
@@ -94,7 +92,7 @@
                     <span>Cadastros</span>
                 </a>
             </li>
-            
+
             <hr class="sidebar-divider">
             <li class="nav-item active">
                 <a class="nav-link text-white" asp-area="" asp-controller="Home" asp-action="Notifications">
@@ -111,7 +109,7 @@
             </li>
             <hr class="sidebar-divider d-none d-md-block">
             <li class="nav-item active">
-                <a class="nav-link text-white" asp-area="" asp-controller="Home" asp-action="">
+                <a class="nav-link text-white" asp-area="" asp-controller="" asp-action="">
                     <i class="fa fa-sign-out"></i>
                     <span>Sair</span>
                 </a>
@@ -228,8 +226,8 @@
                     </div>
                 </nav>
                 <main role="main" class="pb-3" style="max-height: calc(100vh - 90px); overflow-y: auto;">
-                        @RenderBody()
-                    </main>
+                    @RenderBody()
+                </main>
                 <script src="vendor/jquery/jquery.min.js"></script>
                 <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
                 <script src="vendor/jquery-easing/jquery.easing.min.js"></script>
@@ -237,7 +235,7 @@
                 <script src="vendor/chart.js/Chart.min.js"></script>
                 <script src="js/demo/chart-area-demo.js"></script>
                 <script src="js/demo/chart-pie-demo.js"></script>
-                
+
 
 </body>
 
