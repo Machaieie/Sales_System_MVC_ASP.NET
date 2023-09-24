@@ -1,0 +1,31 @@
+C:\Users\EDWIN-OLOGA\source\repos\Aplicacao de vendas\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\EDWIN-OLOGA\source\repos\Aplicacao de vendas\bin\Debug\net6.0\appsettings.json
+C:\Users\EDWIN-OLOGA\source\repos\Aplicacao de vendas\bin\Debug\net6.0\Aplicacao de vendas.staticwebassets.runtime.json
+C:\Users\EDWIN-OLOGA\source\repos\Aplicacao de vendas\bin\Debug\net6.0\Aplicacao de vendas.exe
+C:\Users\EDWIN-OLOGA\source\repos\Aplicacao de vendas\bin\Debug\net6.0\Aplicacao de vendas.deps.json
+C:\Users\EDWIN-OLOGA\source\repos\Aplicacao de vendas\bin\Debug\net6.0\Aplicacao de vendas.runtimeconfig.json
+C:\Users\EDWIN-OLOGA\source\repos\Aplicacao de vendas\bin\Debug\net6.0\Aplicacao de vendas.dll
+C:\Users\EDWIN-OLOGA\source\repos\Aplicacao de vendas\bin\Debug\net6.0\Aplicacao de vendas.pdb
+C:\Users\EDWIN-OLOGA\source\repos\Aplicacao de vendas\obj\Debug\net6.0\Aplicacao de vendas.csproj.AssemblyReference.cache
+C:\Users\EDWIN-OLOGA\source\repos\Aplicacao de vendas\obj\Debug\net6.0\Aplicacao de vendas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EDWIN-OLOGA\source\repos\Aplicacao de vendas\obj\Debug\net6.0\Aplicacao de vendas.AssemblyInfoInputs.cache
+C:\Users\EDWIN-OLOGA\source\repos\Aplicacao de vendas\obj\Debug\net6.0\Aplicacao de vendas.AssemblyInfo.cs
+C:\Users\EDWIN-OLOGA\source\repos\Aplicacao de vendas\obj\Debug\net6.0\Aplicacao de vendas.csproj.CoreCompileInputs.cache
+C:\Users\EDWIN-OLOGA\source\repos\Aplicacao de vendas\obj\Debug\net6.0\Aplicacao de vendas.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\EDWIN-OLOGA\source\repos\Aplicacao de vendas\obj\Debug\net6.0\Aplicacao de vendas.RazorAssemblyInfo.cache
+C:\Users\EDWIN-OLOGA\source\repos\Aplicacao de vendas\obj\Debug\net6.0\Aplicacao de vendas.RazorAssemblyInfo.cs
+C:\Users\EDWIN-OLOGA\source\repos\Aplicacao de vendas\obj\Debug\net6.0\staticwebassets\msbuild.Aplicacao de vendas.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\EDWIN-OLOGA\source\repos\Aplicacao de vendas\obj\Debug\net6.0\staticwebassets\msbuild.build.Aplicacao de vendas.props
+C:\Users\EDWIN-OLOGA\source\repos\Aplicacao de vendas\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Aplicacao de vendas.props
+C:\Users\EDWIN-OLOGA\source\repos\Aplicacao de vendas\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Aplicacao de vendas.props
+C:\Users\EDWIN-OLOGA\source\repos\Aplicacao de vendas\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\EDWIN-OLOGA\source\repos\Aplicacao de vendas\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\EDWIN-OLOGA\source\repos\Aplicacao de vendas\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\EDWIN-OLOGA\source\repos\Aplicacao de vendas\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\EDWIN-OLOGA\source\repos\Aplicacao de vendas\obj\Debug\net6.0\scopedcss\bundle\Aplicacao de vendas.styles.css
+C:\Users\EDWIN-OLOGA\source\repos\Aplicacao de vendas\obj\Debug\net6.0\scopedcss\projectbundle\Aplicacao de vendas.bundle.scp.css
+C:\Users\EDWIN-OLOGA\source\repos\Aplicacao de vendas\obj\Debug\net6.0\Aplicacao de vendas.dll
+C:\Users\EDWIN-OLOGA\source\repos\Aplicacao de vendas\obj\Debug\net6.0\refint\Aplicacao de vendas.dll
+C:\Users\EDWIN-OLOGA\source\repos\Aplicacao de vendas\obj\Debug\net6.0\Aplicacao de vendas.pdb
+C:\Users\EDWIN-OLOGA\source\repos\Aplicacao de vendas\obj\Debug\net6.0\Aplicacao de vendas.genruntimeconfig.cache
+C:\Users\EDWIN-OLOGA\source\repos\Aplicacao de vendas\obj\Debug\net6.0\ref\Aplicacao de vendas.dll
