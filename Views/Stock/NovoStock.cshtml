@@ -2,8 +2,7 @@
 
 <div class="container-login100">
 
-
-    <form class="form border w-75 mt-5 shadow m-auto p-5 bg-light rounded">
+    <form class="form border w-75 mt-5 shadow m-auto p-5 rounded bg-light ">
         <div class="row">
             <div class="col-md-4 m-auto">
                 <label class="form-control-label">Categoria do Produto</label>
@@ -15,20 +14,25 @@
                 </select>
             </div>
         </div>
-        <div class="row">
+        <div class="row mt-4">
             <div class="col-md-4 m-auto">
-                <label class="form-control-label">Nome do Produto</label>
-                <input class="form-control" type="text" />
+                <label class="form-control-label">Produto</label>
+                <select class="form-select form-select-lg mb-3" aria-label=".form-select-lg example">
+                    <option selected>---</option>
+                    <option value="1">Comida</option>
+                    <option value="2">Bebida</option>
+                    <option value="3">Novo produto</option>
+                </select>
             </div>
             <div class="col-md-4 m-auto">
-                <label>Preco Unitário</label>
+                <label>Quantidade</label>
                 <input class="form-control" type="number" />
             </div>
         </div>
-        <div class="row mt-4">
+        <div class="row">
             <div class="col-md-4 m-auto">
-                <label>Data de validade</label>
-                <input class="form-control" type="date" />
+                <label>Preco</label>
+                <input class="form-control" type="number" />
             </div>
             <div class="col-md-4 m-auto">
                 <label>Descricão</label>
@@ -41,4 +45,5 @@
             </div>
         </div>
     </form>
+
 </div>
