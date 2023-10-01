@@ -11,6 +11,11 @@ namespace Aplicacao_de_vendas.Controllers
             return View();
         }
 
-       
+        public IActionResult NovoProduto()
+        {
+            return View();
+        }
+
+
     }
 }

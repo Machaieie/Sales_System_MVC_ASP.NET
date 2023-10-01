@@ -7,37 +7,25 @@ namespace Aplicacao_de_vendas.Models
     public class Estoque
     {
         [Key]
-        [Column("codigo")]
-        [Display (Name ="Código")]
-        [Required(ErrorMessage = "O campo {0} é obrigatório")]
-        public String codigo { get; set; }
+        public int Id { get; set; }
 
-        [Column("produto")]
-        [Display (Name="Produto")]
-        [Required (ErrorMessage ="O campo {0} é obrigatório")]
-        public String produto { get; set; }
+        [Required(ErrorMessage = "O campo ProdutoId é obrigatório.")]
+        public int ProdutoId { get; set; }
 
-        [Column("quantidade")]
-        [Display (Name ="Quantidade")]
-        [Required (ErrorMessage ="O campo {0} é obrigatorio")]
-        public String quantidade { get; set;}
+        [Required(ErrorMessage = "O campo Quantidade é obrigatório.")]
+        [Range(1, int.MaxValue, ErrorMessage = "A Quantidade deve ser um número maior ou igual a 1.")]
+        public int Quantidade { get; set; }
 
-        [Column("data_stock")]
-        [Display(Name = "Data Stoque")]
-        [Required(ErrorMessage = "O campo {0} é obrigatorio")]
-        public String data_stoque { get; set; }
+        [Required(ErrorMessage = "O campo Preco é obrigatório.")]
+        [Range(0.01, double.MaxValue, ErrorMessage = "O Preço  deve ser maior ou igual a 0.01.")]
+        public double Preco { get; set; }
 
+        [Required(ErrorMessage = "O campo Descricao é obrigatório.")]
+        [Range(0.01, double.MaxValue, ErrorMessage = "A Descricao  deve ser maior ou igual a 0.01.")]
+        public double Descricao { get; set; }
 
-        [Column("valor")]
-        [Display(Name = "Valor Estoque")]
-        [Required(ErrorMessage = "O campo {0} é obrigatorio")]
-        public String valor { get; set; }
-
-        [Column("fornecedor")]
-        [Display(Name = "Fornecedor")]
-        [Required(ErrorMessage = "O campo {0} é obrigatorio")]
-        public String fornecedor { get; set; }
-
+        [ForeignKey("ProdutoId")]
+        public virtual Producto ProdutoModel { get; set; }
 
     }
 }

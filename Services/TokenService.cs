@@ -12,7 +12,7 @@ public class TokenService
 {
    
 
-    public string GenerateToken(User user)
+    public static string GenerateToken(User user)
     {
         // Gerador de tokens 
         var tokenHandler = new JwtSecurityTokenHandler();

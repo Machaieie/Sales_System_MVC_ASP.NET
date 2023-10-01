@@ -7,28 +7,20 @@ namespace Aplicacao_de_vendas.Models
     public class Producto
     {
         [Key]
-        [Column("codigo")]
-        [Display(Name ="Código")]
-        public String codigo { get; set; }
-        [Column("nome")]
-        [Display(Name = "Nome")]
-        [Required(ErrorMessage = "O campo {0} é obrigatório")]
-        public string nome { get; set; }
-        [Column("descricao")]
-        [Display(Name = "Descricão")]
-        [Required(ErrorMessage = "O campo {0} é obrigatório")]
-        public string descricao { get; set; }
-        [Column("categoria")]
-        [Display(Name = "Categoria")]
-        [Required(ErrorMessage = "O campo {0} é obrigatório")]
-        public String categoria { get; set; }
-        [Column("preco")]
-        [Display(Name = "Preco")]
-        [Required(ErrorMessage = "O campo {0} é obrigatório")]
-        public double preco { get; set; }
-        [Column("data_validade")]
-        [Display(Name = "Data Validade")]
-        [Required(ErrorMessage = "O campo {0} é obrigatório")]
-        public String dataValidade { get; set; }
+        public int Id { get; set; }
+
+        [Required(ErrorMessage = "O campo Nome é obrigatório.")]
+        [StringLength(100, ErrorMessage = "O campo Nome deve ter no máximo 100 caracteres.")]
+        public string? Nome { get; set; }
+
+        [StringLength(200, ErrorMessage = "O campo Descrição deve ter no máximo 200 caracteres.")]
+        public string? Descricao { get; set; }
+
+        [Required(ErrorMessage = "O campo Data é obrigatório.")]
+        [DisplayFormat(DataFormatString = "{0:yyyy-MM-dd}", ApplyFormatInEditMode = true)]
+        public DateTime DataValidade { get; set; }
+
+        [Required(ErrorMessage = "O campo Categoria é obrigatório.")]
+        public string Categoria { get; set; }
     }
 }

@@ -1,40 +1,24 @@
+using Aplicacao_de_vendas.DataContext;
+using Aplicacao_de_vendas.Models;
 using Aplicacao_de_vendas.Properties.Settings;
+using Aplicacao_de_vendas.Repositorys;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
+using Microsoft.EntityFrameworkCore;
 using Microsoft.IdentityModel.Tokens;
 using System.Text;
 
 var builder = WebApplication.CreateBuilder(args);
-
 // Add services to the container.
 builder.Services.AddControllersWithViews();
-var key = Encoding.ASCII.GetBytes(Settings.Secret);
-builder.Services.AddAuthentication(x =>
-{
-    x.DefaultAuthenticateScheme = JwtBearerDefaults.AuthenticationScheme;
-    x.DefaultChallengeScheme = JwtBearerDefaults.AuthenticationScheme;
-}).AddJwtBearer(x =>
-{
-    x.RequireHttpsMetadata = false;
-    x.SaveToken = true;
-    x.TokenValidationParameters = new Microsoft.IdentityModel.Tokens.TokenValidationParameters
-    {
-        ValidateIssuerSigningKey = true,
-        IssuerSigningKey = new SymmetricSecurityKey(key),
-        ValidateIssuer = false,
-        ValidateAudience = false,
-    };
-});
+builder.Services.AddDbContext<DataContext>(options => options.UseSqlServer("Data source=OLOGA_PROGRAMS\\SQLEXPRESS;initial catalog=Sales_System; integrated security=false; User ID=OLOGA_Programs\\EDWIN-OLOGA;Password=;Trusted_Connection=True;TrustServerCertificate=True;"));
 
-builder.Services.AddAuthorization(options =>
-{
-    options.AddPolicy("Admin", policy => policy.RequireRole("manager"));
-    options.AddPolicy("Employee", policy => policy.RequireRole("employee"));
-});
+
+
 
 var app = builder.Build();
 
-app.UseAuthentication();
-app.UseAuthorization();
+
+
 
 // Configure the HTTP request pipeline.
 if (!app.Environment.IsDevelopment())

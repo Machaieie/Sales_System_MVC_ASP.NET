@@ -12,9 +12,8 @@ namespace Aplicacao_de_vendas.Repositorys
                 new User { Id = 2, Username = "leo", Password = "teste", Role = "employee" },
             };
 
-            return users.FirstOrDefault(x =>
-                  x.Username.ToLower() == username.ToLower() && x.Password == password
-              );
+            return users.FirstOrDefault(x => x.Username.ToLower() == username.ToLower() && x.Password == password);
+              
         }
 
     }
