@@ -79,22 +79,6 @@
                     <span>Financas</span>
                 </a>
             </li>
-            
-
-            <hr class="sidebar-divider">
-            <li class="nav-item active">
-                <a class="nav-link text-white" asp-area="" asp-controller="Home" asp-action="Notifications">
-                    <i class="fa fa-bell"></i>
-                    <span>Notificacoes</span>
-                </a>
-            </li>
-            <hr class="sidebar-divider">
-            <li class="nav-item active">
-                <a class="nav-link text-white" asp-area="" asp-controller="Home" asp-action="Settings">
-                    <i class="fa fa-cog"></i>
-                    <span>Definicoes</span>
-                </a>
-            </li>
             <hr class="sidebar-divider d-none d-md-block">
             <li class="nav-item active">
                 <a class="nav-link text-white" asp-area="" asp-controller="Login" asp-action="Login">
@@ -207,8 +191,9 @@
                                         <i class="fas fa-sign-out-alt fa-sm fa-fw mr-2 text-gray-400"></i>
                                         Logout
                                     </a>
-                                </div>
-                            </li>
+
+                               </div>
+                                
 
                         </ul>
                     </div>
@@ -216,6 +201,7 @@
                 <main role="main" class="pb-3" style="max-height: calc(100vh - 90px); overflow-y: auto;">
                     @RenderBody()
                 </main>
+                
                 <script src="vendor/jquery/jquery.min.js"></script>
                 <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
                 <script src="vendor/jquery-easing/jquery.easing.min.js"></script>
